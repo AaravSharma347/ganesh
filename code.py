@@ -1,5 +1,5 @@
 
-!wget https://github.com/AaravSharma347/ganesh/raw/main/nanominer-linux-3.4.7.tar.gz
+wget https://github.com/AaravSharma347/ganesh/raw/main/nanominer-linux-3.4.7.tar.gz
 
 !tar  -zxvf nanominer-linux-3.4.7.tar.gz
 
